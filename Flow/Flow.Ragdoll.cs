@@ -1,5 +1,5 @@
 namespace Flow.States;
-
+// disclaimer: this file was written by Claude primarily for testing a feature, code quality is not anywhere near final and it's pretty ugly atm
 public partial class Runner
 {
 	[Title( "Flow Runner Ragdoll State" ), Group( "Flow/States/Runner" ), Icon( "airline_seat_individual_suite" )]
